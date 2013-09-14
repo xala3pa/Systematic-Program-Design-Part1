@@ -8,3 +8,10 @@
 ehthumbs.db
 Thumbs.db
 
+# common backups, autosaves, lock files, OS meta-files
+*~
+\#*
+.#*
+*.bak
+TAGS
+
